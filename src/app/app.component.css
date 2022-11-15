@@ -1,0 +1,15 @@
+.app {
+    width: 50%;
+    background-color: #999;
+    border-radius: 25px;
+    margin: 10px auto;
+}
+
+h1 {
+    text-align: center;
+    padding: 1rem;
+}
+
+.todos-container{
+    padding: 2rem;
+}
